@@ -6,7 +6,7 @@ Run on FreecellMain.java. The game should play through the console, so
 if you have the jar you can also play through running on the command line. 
 
 Example:
-	C:\user\location_of_jar> java -jar FreecellMain.java
+	C:\user\location_of_jar> java -jar FreecellCombined.jar
 
 	NOTE: Recommend running on an IDE that has support for the card symbols (♥, ♦, ♣, ♠), 
 	as regular windows cmd may not be able to display those symbols. 
